@@ -6,7 +6,7 @@ const  mongoose = require('mongoose');
 require('dotenv').config();
 const server = require('./src/server.js');
 
-const MONGODB_URI = 'mongodb://localhost:27017/clothes-food';
+const MONGODB_URI = process.env.MONGODB_URI;
 
 const options = { useNewUrlParser: true, useUnifiedTopology: true }; // always pass in these options
 
