@@ -11,9 +11,9 @@
 ### Links and Resources
 
 - [AWW](https://awwapp.com/?dis=%5B%5B%22close-menus%22%5D%5D#) (AWW board)
-- [front-end application](https://dashboard.heroku.com/apps/basic-express-server-lab2/deploy/github) (Heroku)
+- [front-end application](https://api85.herokuapp.com/) (Heroku)
 - [Jest](https://jestjs.io/) (Jest)
-- [ci/cd](https://github.com/Arthur-Lozano/lab-02/actions) (GitHub Actions)
+- [ci/cd](https://github.com/Arthur-Lozano/api-server/actions/workflows/node.js.yml) (GitHub Actions)
 - [Pull Request] (https://github.com/Arthur-Lozano/lab-02/pull/3) 
 - [MIRO] https://miro.com/app/board/o9J_lRusq44=/
 
@@ -45,4 +45,4 @@
 
 #### UML
 
-![UML Example](./assets/basicserver.jpg)
+![UML](./assets/basicserver.jpg)
